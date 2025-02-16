@@ -16,8 +16,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    
-   
+
    
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
